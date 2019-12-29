@@ -8,7 +8,8 @@ eaily be obtained for free from the Companies House website.
 
 2) You must then save this API Key into the config.py document.
 
-Features:
+#### Features:
+
 Return - Whilst using the programme, if you press enter without anything typed you will
 be returned to the start of the programme. This will also happen if you type in an 
 invalid command.
