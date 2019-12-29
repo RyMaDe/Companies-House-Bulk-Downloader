@@ -1,5 +1,5 @@
 # Companies-House-Bulk-Downloader
-Allows you to view information on Companies House and download documents in bulk if required.
+Allows you to view information on Companies House and download documents either individually or in bulk if required.
 
 ## Guide
 
