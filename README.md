@@ -21,11 +21,17 @@ filter - When navigating the filing history, you can filter documents by typing
 "filter" and then one of the following commands:
 
 "accounts" - to filter all accounts
+
 "officers" - to filter all officer documents
+
 "confstat" - to filter all confirmation statements
+
 "capital" - to filter all capital documents
+
 "incorporation" - to filter incorporation documents
+
 "charges" - to filter all charge related documents
+
 "off" - to remove the filter
 
 Navigating filing history - You can also type "next" and "prev" to navigate the
