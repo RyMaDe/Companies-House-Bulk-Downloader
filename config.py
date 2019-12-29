@@ -1,0 +1,1 @@
+apiKey = '' # Companies House API
